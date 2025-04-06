@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/dynamic/Music/Medieval_Fantasy_Tavern_｜_D_D_Fantasy_Music_and_Ambience.uasset
+Content/static/Scene_Saloon/Assets/Blueprints/Medieval_Fantasy_Tavern_｜_D_D_Fantasy_Music_and_Ambience.uasset
